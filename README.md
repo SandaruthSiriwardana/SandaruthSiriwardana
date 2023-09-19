@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science and Engineering.
 - 👯 I’m looking to collaborate on Data Science and Machine Learning.
 <img align="left" width='47%' height='200px' src="https://github-readme-stats.vercel.app/api?username=SandaruthSiriwardana&show_icons=true&theme=dark" />
-<img align="right" width='47%' height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruthSiriwardana&layout=compact&theme=dark">
+<img align="right" width='47%' height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruthSiriwardana&layout=compact&theme=dark">
 
 <br><br><br><br><br><br><br><br><br><br>
 <!-- Languages --
