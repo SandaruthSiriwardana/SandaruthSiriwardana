@@ -1,11 +1,20 @@
-### Hi there, I'm Sandaruth !👋
-Here are some ideas to get you started:
+### Hi there, I'm Sandaruth! 👋
 
-- 🔭 I’m currently Student of University of Moratuwa.
+- 🔭 I’m currently a student at the University of Moratuwa.
 - 🌱 I’m currently learning Data Science and Engineering.
 - 👯 I’m looking to collaborate on Data Science and Machine Learning.
-<img align="left" width='47%' height='200px' src="https://github-readme-stats.vercel.app/api?username=SandaruthSiriwardana&show_icons=true&theme=dark" />
-<img align="right" width='47%' height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruthSiriwardana&layout=compact&theme=dark">
+
+<details>
+  <summary>GitHub Stats</summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SandaruthSiriwardana&show_icons=true&theme=dark" alt="GitHub Stats" />
+</details>
+
+<details open>
+  <summary>Top Languages</summary>
+  <!-- <details open> tag is used for the "Top Languages" section, which will make it open (i.e., displayed) by default. -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruthSiriwardana&layout=compact&theme=dark" alt="Top Languages" />
+</details>
 
 <br><br><br><br><br><br><br><br><br><br>
 <!-- Languages --
