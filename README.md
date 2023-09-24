@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science and Engineering.
 - 👯 I’m looking to collaborate on Data Science and Machine Learning.
 
-<details>
+<details open>
   <summary>GitHub Stats</summary>
   
   <img src="https://github-readme-stats.vercel.app/api?username=SandaruthSiriwardana&show_icons=true&theme=dark" alt="GitHub Stats" />
